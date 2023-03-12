@@ -6,11 +6,11 @@ A crud project to learn the basic of java web
 
 ## Topics
 
-[configuration of mysql](#STEP-1) 
+[Configuration of mysql](#STEP-1) 
 <br/>
-[import the project to eclipse](#STEP-5)
+[Import the project to eclipse](#STEP-5)
 <br/>
-[setting the variable enviroment](#STEP-9)
+[Setting the variable enviroment](#STEP-9)
 <br/>
 [Screenshot of the project](#Demonstration)
 
